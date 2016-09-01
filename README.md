@@ -1,0 +1,2 @@
+# Leaguesharp
+CN/KR database
